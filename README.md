@@ -1,2 +1,28 @@
-# online-games-icons
-High-quality SVG/PNG icons and logos of popular online games (Fortnite, Valorant, LoL, Dota 2, CS2, Roblox, Genshin &amp; more). Free for personal/fan use.
+### What's inside?
+High-resolution logos and icons of your favorite online multiplayer games, battle royales, MMORPGs, shooters and more.  
+Perfect for:
+- Your gaming profile / README
+- Discord servers, Twitch overlays
+- Fan sites, apps, widgets
+- Custom badges, avatars, wallpapers
+
+### Current games included
+
+- Fortnite
+- Valorant
+- League of Legends
+- Dota 2
+- Counter-Strike 2
+- Roblox
+- PUBG / PUBG Mobile
+- Minecraft (online servers)
+- Among Us
+- and more...
+
+### Formats & Sizes
+- **SVG** — vector, scalable, editable (recommended)
+
+### How to use
+1. Download the icon you need from `/icons/` folder.
+2. Or clone the whole repo:
+   git clone https://github.com/klimentsii/online-games-icons.git
