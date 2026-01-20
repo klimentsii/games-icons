@@ -1,5 +1,5 @@
 ### What's inside?
-High-resolution logos and icons of your favorite online multiplayer games, battle royales, MMORPGs, shooters and more.  
+High-resolution logos and icons of your favorite games, battle royales, MMORPGs, shooters and more.  
 Perfect for:
 - Your gaming profile / README
 - Discord servers, Twitch overlays
